@@ -9,6 +9,7 @@ public class Welcome implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("WELCOME TO NARESH IT ");
+		System.out.println("Hello");
 
 	}
 
